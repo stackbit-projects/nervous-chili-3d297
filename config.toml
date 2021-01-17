@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Hugo Changelog"
+paginate = 4
+theme = "changelog theme"
+themesDir = "themes"
+publishDir = "public"
